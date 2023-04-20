@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Exception_Task\bin\Debug\net6.0\Exception_Task.exe
+C:\Users\LENOVO\Desktop\Exception_Task\bin\Debug\net6.0\Exception_Task.deps.json
+C:\Users\LENOVO\Desktop\Exception_Task\bin\Debug\net6.0\Exception_Task.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Exception_Task\bin\Debug\net6.0\Exception_Task.dll
+C:\Users\LENOVO\Desktop\Exception_Task\bin\Debug\net6.0\Exception_Task.pdb
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.dll
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\refint\Exception_Task.dll
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.pdb
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\Exception_Task.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Exception_Task\obj\Debug\net6.0\ref\Exception_Task.dll
